@@ -1,4 +1,4 @@
-#Task 1: Basic File and Directory Navigation
+# Task 1: Basic File and Directory Navigation
 
 ## Description
 
@@ -6,28 +6,29 @@ In this task I focused on familiarizing myself with fundamental Linux commands f
 
 ## Commands Used
 
-1. Create the File
-with command 
+1. touch
+
+### Create the File using touch
 
 touch manisha.txt
 
-![touch](images/touch.png)
+![touch](IMAGES/touch.png)
 
 
-2. ls (and ls -l)
+2. ls 
 
-    ## Purpose/Explanation:
+    ## Purpose/Explanation:
 
-## The ls command lists the contents of a directory.    I used it to see files and subdirectories.
+## The ls command lists the contents of a directory.    I used it to see files and subdirectories.
 
-![ls](images/ls.png)
+![ls](IMAGES/ls.png)
 
 3. ls -l
 
- ## I also used ls -l which provides a "long list" format, showing detailed information like file permissions, owner, group, size, and last modification date. This helped me understand file attributes at a glance.
+## I also used ls -l which provides a "long list" format, showing detailed information like file permissions, owner, group, size, and last modification date. This helped me understand file attributes at a glance.
 
-![lsl](images/lsl.png)
+![lsl](IMAGES/lsl.png)
 
-4. cd 
-change directory
-I used cd to navigate to different directories. For example, to go to the home directory, I used cd ~. To go to the parent directory, I used cd .. to move up one level in the directory hierarchy.
+4. chmod
+## Change the permissions of a file or directory, I used chmod to change the permissions of a file. For example, I changed the permissions of a file called "manisha.txt" to make it executable.
+ ![permission](IMAGES/permission.png)
