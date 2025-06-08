@@ -1,6 +1,6 @@
 # Assignment-week-01 -  Updates from Feature Branch
 
-My practice exercises for Linux command-line tasks.
+My practice exercises for Linux command-line tasks, for an important assignment.
 
 ## Assignments Overview
 
