@@ -1,6 +1,6 @@
 # Assignment-week-01 -  Updates from Feature Branch
 
-My practice exercises for Linux command-line tasks, fully updated for Git.
+My Linux tasks are now revised for submission.
 
 ## Assignments Overview
 
