@@ -11,6 +11,7 @@ Here are the detailed assignments for each task:
 * [Task 1: Basic File and Directory Navigation](task1.md)
 * [Task 2: File and Directory Manipulation](task2.md)
 * [Task 3: User and Group Management](task3.md)
+* [Task 4: File Permissions and Ownership](task4.md)
 * [Task 5: More Linux Commands](task5.md)
 
 
