@@ -1,10 +1,8 @@
 # Assignment-week-01 -  Updates from Feature Branch
 
-<<<<<<< HEAD
 My Linux tasks are now revised for submission.
-=======
+
 My Linux commands for the my assignment.
->>>>>>> real-conflict-branch
 
 ## Assignments Overview
 
